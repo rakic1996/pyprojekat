@@ -1,0 +1,5 @@
+A4|Gauda|Sir|120.0|1.5.2019.|P10|
+A7|fdg|gfdg|50.99|12.12.2019|P2|
+A1|pavlaka|pavla sa 1.8% mlecne masti|51.99|21.06.2019|P10|
+A2|persil|uklanja tvrdokorne fleke|387.99|27.07.2020|P10|
+A3|nike trenerica|100% pamuk|1999.99|neograniceno|P2|

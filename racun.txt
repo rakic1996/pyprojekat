@@ -1,0 +1,6 @@
+R1|Aleksandar Jankovic|13000.0|12.12.2020|
+R2|Nemanja golub|549.7|12.12.2020|
+R3|Marko Stajic|1000.0|12.10.2020|
+R4|Dejan Rakin|3567.0|4.6.2020|
+R5|Dejan rakin|32.0|12.12.2200|
+R10|MArko ass|10.0|10.10.2010|

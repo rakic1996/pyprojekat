@@ -1,0 +1,7 @@
+S4|Detrdzenti|Za sudje|4|
+S13|Mlecni proizvodi|Sirevi|1|
+S1|Povrce|Sveze povrce|4|
+S5|Odeca|Pantalone|3|
+S6|Mesni proizvodi|Sunka|5|
+S2|Detrdzenti|Detrdzenti za prozore|1|
+S10|Sdada|sadsa|1|
